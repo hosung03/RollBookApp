@@ -10,11 +10,10 @@ This is my personal project for implementing iOS / Android application with Reac
 </p>
 
 ## Prerequisites
-
 - Make Comppnent/Const.js
   <pre><code>
-export const ServiceURL = 'logcal';
-export const BrandTitle = '출석부';  
+  export const ServiceURL = 'logcal';
+  export const BrandTitle = '출석부';  
   </code></pre>
 
 ## References
